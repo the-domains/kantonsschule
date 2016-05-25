@@ -1,0 +1,14 @@
+layout_spectrum: 0.5382979
+typography_spectrum: 0.9755951
+color:
+  saturation: 0.4127659
+  lightness: 0.7833814
+  brandStrength: 0.7085106
+  brandColors:
+    - '#D3E9F6'
+    - '#AAC1EA'
+    - '#3A4423'
+    - '#496276'
+    - '#737840'
+  rhythmicContrast: 0.6702127
+name: 'Kantonsschule '
